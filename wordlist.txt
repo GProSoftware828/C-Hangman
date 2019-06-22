@@ -1,0 +1,12 @@
+*******Wordlist*******
+
+giraffe
+rhino
+ruby
+truck
+cricket
+grasshopper
+buzzard
+blue
+potato
+linux
