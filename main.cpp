@@ -63,7 +63,7 @@ int main()
 string get_word()
 {
     //Change wordbank list here:
-    const int WORDLIST_SIZE = 10;
+    const int WORDLIST_SIZE = 24;
     string temp_word;
     string wordlist[WORDLIST_SIZE] = {" "};
     int index = 0;
