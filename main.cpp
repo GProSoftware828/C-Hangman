@@ -204,3 +204,9 @@ int generate_random_number()
     int random_number = rand() % 10 + 1;
     return random_number;
 }
+
+//Words are set to an array of strings
+//Words are called by their array index from the random number
+//Blanks are set to _ in the else
+//Letters_guessed is an array of cin input variable 'guess' and matched by index with .find()
+//Iterating down from 7 in integer value user_lives
