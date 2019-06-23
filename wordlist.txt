@@ -10,3 +10,17 @@ buzzard
 blue
 potato
 linux
+umbrella
+elevator
+zebra
+hijack
+brevity
+duckling
+happy
+qualms
+igloo
+freeze
+ladder
+padlock
+degenerate
+yes
